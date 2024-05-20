@@ -1817,7 +1817,7 @@
           "set": "America/Chicago"
         }
       ],
-      "image": "linuxserver/openvpn-as:latest",
+      "image": "openvpn/openvpn-as:latest",
       "logo": "https://raw.githubusercontent.com/thesugarat/portainer_templates-1/master/Images/openvpn-as-icon.png",
       "platform": "linux",
       "ports": [
